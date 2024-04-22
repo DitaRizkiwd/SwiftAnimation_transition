@@ -12,6 +12,7 @@
 		52B30D4F2BD6128200180636 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52B30D4E2BD6128200180636 /* Assets.xcassets */; };
 		52B30D522BD6128200180636 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52B30D512BD6128200180636 /* Preview Assets.xcassets */; };
 		52B30D5C2BD6170B00180636 /* LoadingIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B30D5B2BD6170B00180636 /* LoadingIndicator.swift */; };
+		52B30D5E2BD61FA400180636 /* MorphingAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B30D5D2BD61FA400180636 /* MorphingAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		52B30D4E2BD6128200180636 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52B30D512BD6128200180636 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		52B30D5B2BD6170B00180636 /* LoadingIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingIndicator.swift; sourceTree = "<group>"; };
+		52B30D5D2BD61FA400180636 /* MorphingAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorphingAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			children = (
 				52B30D4C2BD6128100180636 /* ContentView.swift */,
 				52B30D5B2BD6170B00180636 /* LoadingIndicator.swift */,
+				52B30D5D2BD61FA400180636 /* MorphingAnimation.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			files = (
 				52B30D5C2BD6170B00180636 /* LoadingIndicator.swift in Sources */,
 				52B30D4D2BD6128100180636 /* ContentView.swift in Sources */,
+				52B30D5E2BD61FA400180636 /* MorphingAnimation.swift in Sources */,
 				52B30D4B2BD6128100180636 /* SwiftAnimationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
