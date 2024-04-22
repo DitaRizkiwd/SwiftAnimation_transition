@@ -15,6 +15,7 @@
 		52B30D5E2BD61FA400180636 /* MorphingAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B30D5D2BD61FA400180636 /* MorphingAnimation.swift */; };
 		52B30D602BD635EC00180636 /* TransitionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B30D5F2BD635EC00180636 /* TransitionView.swift */; };
 		52B30D622BD63B8800180636 /* FancyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B30D612BD63B8800180636 /* FancyButton.swift */; };
+		52B30D642BD6472800180636 /* ExcerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B30D632BD6472800180636 /* ExcerciseView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		52B30D5D2BD61FA400180636 /* MorphingAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorphingAnimation.swift; sourceTree = "<group>"; };
 		52B30D5F2BD635EC00180636 /* TransitionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionView.swift; sourceTree = "<group>"; };
 		52B30D612BD63B8800180636 /* FancyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyButton.swift; sourceTree = "<group>"; };
+		52B30D632BD6472800180636 /* ExcerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcerciseView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				52B30D5D2BD61FA400180636 /* MorphingAnimation.swift */,
 				52B30D5F2BD635EC00180636 /* TransitionView.swift */,
 				52B30D612BD63B8800180636 /* FancyButton.swift */,
+				52B30D632BD6472800180636 /* ExcerciseView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				52B30D5C2BD6170B00180636 /* LoadingIndicator.swift in Sources */,
 				52B30D4D2BD6128100180636 /* ContentView.swift in Sources */,
 				52B30D5E2BD61FA400180636 /* MorphingAnimation.swift in Sources */,
+				52B30D642BD6472800180636 /* ExcerciseView.swift in Sources */,
 				52B30D622BD63B8800180636 /* FancyButton.swift in Sources */,
 				52B30D602BD635EC00180636 /* TransitionView.swift in Sources */,
 				52B30D4B2BD6128100180636 /* SwiftAnimationApp.swift in Sources */,
