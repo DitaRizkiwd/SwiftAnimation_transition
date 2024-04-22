@@ -51,9 +51,9 @@
 		52B30D492BD6128100180636 /* SwiftAnimation */ = {
 			isa = PBXGroup;
 			children = (
-				52B30D4A2BD6128100180636 /* SwiftAnimationApp.swift */,
-				52B30D4C2BD6128100180636 /* ContentView.swift */,
-				52B30D4E2BD6128200180636 /* Assets.xcassets */,
+				52B30D582BD6128A00180636 /* App */,
+				52B30D592BD6129100180636 /* View */,
+				52B30D5A2BD612A200180636 /* Resources */,
 				52B30D502BD6128200180636 /* Preview Content */,
 			);
 			path = SwiftAnimation;
@@ -65,6 +65,30 @@
 				52B30D512BD6128200180636 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		52B30D582BD6128A00180636 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				52B30D4A2BD6128100180636 /* SwiftAnimationApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		52B30D592BD6129100180636 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				52B30D4C2BD6128100180636 /* ContentView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		52B30D5A2BD612A200180636 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				52B30D4E2BD6128200180636 /* Assets.xcassets */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
